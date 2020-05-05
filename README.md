@@ -30,3 +30,11 @@ https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting
 git command
 
 1. git init --> this command add a .git folder to that folder, this creates a timeline version control.
+
+2. git add . --> add to master branch on your computer
+
+3. git commit -m --> commits branch to git github
+
+4. git log --> lets you look at timeline
+
+5. git status --> lets you check that status of branch 
