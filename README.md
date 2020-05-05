@@ -37,4 +37,10 @@ git command
 
 4. git log --> lets you look at timeline
 
-5. git status --> lets you check that status of branch 
+5. git status --> lets you check that status of branch
+
+6. git checkout <commit number> --> changes to that state to that point of save
+
+7. git remote add origin https://github.com/Avraj19/<name-of-file>.git --> this links the branch on your computer with a branch on a repo
+
+8. git push origin master --> this pushes the committed branch to github master 
